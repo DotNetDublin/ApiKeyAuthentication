@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ApiKeyAuthentication/bin/Debug/net5.0
+/ApiKeyAuthentication/obj/Debug/net5.0
+/ApiKeyAuthentication/obj
+/ApiKeyAuthentication.Data/obj
+/ApiKeyAuthentication.Shared/bin/Debug/netcoreapp3.1
+/ApiKeyAuthentication.Shared/obj
+/ApiKeyAuthentication/.vs/ApiKeyAuthentication
+/ApiKeyAuthentication.Data/bin/Debug/netcoreapp3.1/ApiKeyAuthentication.Data.deps.json
+/ApiKeyAuthentication.Data/bin/Debug/netcoreapp3.1/ApiKeyAuthentication.Data.dll
+/ApiKeyAuthentication.Data/bin/Debug/netcoreapp3.1/ApiKeyAuthentication.Data.pdb
+/ApiKeyAuthentication.Data/bin/Debug/netcoreapp3.1/ApiKeyAuthentication.Shared.dll
+/ApiKeyAuthentication.Data/bin/Debug/netcoreapp3.1/ApiKeyAuthentication.Shared.pdb

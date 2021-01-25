@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiKeyAuthentication", "ApiKeyAuthentication.csproj", "{86F24994-B694-4D32-AE47-A0E3A9F4D6D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiKeyAuthentication.Data", "..\ApiKeyAuthentication.Data\ApiKeyAuthentication.Data.csproj", "{8793BFBE-7A4D-4D6A-8EC9-82688058094A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiKeyAuthentication.Shared", "..\ApiKeyAuthentication.Shared\ApiKeyAuthentication.Shared.csproj", "{7738F11F-7BC3-4F7E-95AD-C18C14E62E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F24994-B694-4D32-AE47-A0E3A9F4D6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F24994-B694-4D32-AE47-A0E3A9F4D6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F24994-B694-4D32-AE47-A0E3A9F4D6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F24994-B694-4D32-AE47-A0E3A9F4D6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8793BFBE-7A4D-4D6A-8EC9-82688058094A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8793BFBE-7A4D-4D6A-8EC9-82688058094A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8793BFBE-7A4D-4D6A-8EC9-82688058094A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8793BFBE-7A4D-4D6A-8EC9-82688058094A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7738F11F-7BC3-4F7E-95AD-C18C14E62E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7738F11F-7BC3-4F7E-95AD-C18C14E62E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7738F11F-7BC3-4F7E-95AD-C18C14E62E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7738F11F-7BC3-4F7E-95AD-C18C14E62E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF46179-8351-4320-A3CB-0109A62A37E3}
+	EndGlobalSection
+EndGlobal
